@@ -1,0 +1,27 @@
+La empresa de hoteles Decameron maneja tipos de habitaciones y estas tienen tipos de acomodaciones 
+dela siguente manera:
+
+HABITACION DOBLE: -acomodacion sencilla
+
+HABITACION TRIPLE: -acomodacion sencilla
+				   -acomodacion doble
+
+HABITACION CUADRUPLE: -acomodacion sencilla
+				      -acomodacion doble
+				      -acomodacion triple
+
+
+Y los datos de cada hotel son hombre, telefono y direccion.
+
+
+cree el crud del hotel por medio de ajax y servicos web.
+
+
+
+-- Bajo acoplamiento y alta cohecion
+-- Diferencion inner join y left join
+-- diferencias entre php4 y php5
+-- principios 
+
+
+
